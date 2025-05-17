@@ -1,0 +1,6 @@
+C:\Users\nikol\Desktop\Bezbednost\OIB_projekat-atoc\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Bezbednost\OIB_projekat-atoc\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Bezbednost\OIB_projekat-atoc\Contracts\bin\Debug\Contracts.dll
+C:\Users\nikol\Desktop\Bezbednost\OIB_projekat-atoc\Contracts\bin\Debug\Contracts.pdb
+C:\Users\nikol\Desktop\Bezbednost\OIB_projekat-atoc\Contracts\obj\Debug\Contracts.dll
+C:\Users\nikol\Desktop\Bezbednost\OIB_projekat-atoc\Contracts\obj\Debug\Contracts.pdb
